@@ -1,0 +1,14 @@
+h1,h2
+ {color:#9A23D1;text-align:center;font-weight: bold;}
+ol,p,ul
+ {color:black; font-size:20px;text-align: left;}
+div
+ {background-color:#04172C;border: 3px;margin-left:auto;margin-right:auto;padding:2px;width:300px;}
+button
+ {width: 100px;height: auto;font-size: 24px;}
+ button:hover{background-color: green}
+input {font-size: 15px;}
+table {border:2px solid black;border-collapse: collapse; margin-left:auto; margin-right:auto;width:720px;}
+tr, td  {border: 1px solid black;padding: 5px;text-align: center;}
+th {background-color: lightgrey;}
+.boldfont {font-weight:bold;text-decoration: underline;}
